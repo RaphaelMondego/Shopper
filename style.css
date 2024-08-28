@@ -1,0 +1,17 @@
+/* shopper-backend/
+├── src/
+│   ├── controllers/
+│   │   ├── uploadController.ts
+│   │   ├── confirmController.ts
+│   │   └── listController.ts
+│   ├── models/
+│   │   └── measure.ts
+│   ├── routes/
+│   │   └── index.ts
+│   ├── services/
+│   │   └── geminiService.ts
+│   ├── app.ts
+│   └── server.ts
+├── docker-compose.yml
+├── Dockerfile
+└── tsconfig.json */
